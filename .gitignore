@@ -1,0 +1,17 @@
+# Datos de origen e historial local: NO se suben (contienen datos personales y todas las columnas)
+data/originales/
+data/preparados/
+reportes/
+*.xlsx
+
+# Notebook de exploración (sus salidas contienen resultados de los datos)
+notebooks/
+
+# Python / entorno
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+data/publicado/*.tmp

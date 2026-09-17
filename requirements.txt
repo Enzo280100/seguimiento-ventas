@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy
+openpyxl
+tabulate
+plotly>=5.19
+streamlit>=1.30
+pytest

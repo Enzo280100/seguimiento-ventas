@@ -1,0 +1,39 @@
+{
+ "generado": "2026-09-16T22:51:40",
+ "archivos": {
+  "inf_fact.xlsx": {
+   "indicador": "inf_fact",
+   "csv": "facturacion.csv",
+   "ultimo_intento": {
+    "momento": "2026-09-16T22:51:38",
+    "estado": "COMPLETO",
+    "validaciones_fallidas": [],
+    "mensaje": ""
+   },
+   "datos_publicados": {
+    "preparado": "2026-09-16T22:51:38",
+    "fecha_min": "2026-09-01",
+    "fecha_max": "2026-09-15",
+    "filas": 293,
+    "col_fecha": "f_cierre"
+   }
+  },
+  "inf_venta_int.xlsx": {
+   "indicador": "inf_venta_int",
+   "csv": "venta_interna.csv",
+   "ultimo_intento": {
+    "momento": "2026-09-16T22:51:39",
+    "estado": "COMPLETO",
+    "validaciones_fallidas": [],
+    "mensaje": ""
+   },
+   "datos_publicados": {
+    "preparado": "2026-09-16T22:51:39",
+    "fecha_min": "2026-09-01",
+    "fecha_max": "2026-09-16",
+    "filas": 2330,
+    "col_fecha": "fecha_documento"
+   }
+  }
+ }
+}
